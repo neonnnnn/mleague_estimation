@@ -1,0 +1,2 @@
+# mleague_estimation
+Mリーガーの強さを対戦結果を元に推定する
